@@ -1,0 +1,9 @@
+imutils==0.5.4
+just_playback==0.1.7
+mouse==0.7.1
+mss==6.1.0
+numpy==1.23.3
+opencv_python==4.5.5.64
+psgtray==1.0.2
+pynput==1.7.6
+PySimpleGUI==4.60.4
